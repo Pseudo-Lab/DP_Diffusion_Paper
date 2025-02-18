@@ -26,14 +26,14 @@ _"Top-Tier Conferences (CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia, NeurIPS, ICLR
 
 | 역할          | 이름 | 주요 관심 분야                          | 소개 링크 |
 |---------------|------|----------------------------------------|-------|
-| **Project Manager** | 김건호 | 3D Vision, Graphics, Generative Model | [Link](https://soulmates2.github.io/)_ |
+| **Project Manager** | 김건호 | 3D Vision, Graphics, Generative Model | [Link](https://soulmates2.github.io/) |
 | **Member** | 김현진 | 3D Vision, Graphics, Generative Model | [Link](https://kormachine.github.io/) |
 
 
 ## 🚀 프로젝트 로드맵 (Project Roadmap)
 ```mermaid
 gantt
-    title 2025 AI 프로젝트 여정
+    title 2025 DP 프로젝트 여정
     section 핵심 마일스톤
     ICCV 2025 Deadline       :a1, 2025-02-06, 30d
     NeurIPS 2025 Deadline       :a2, after a1, 70d
@@ -79,7 +79,7 @@ class CollaborationFramework:
 
 
 ## 🌱 참여 안내 (How to Engage)
-**현재 모집 인원을 받고 있지 않습니다🥲 연구관련 협업은 프로젝트 매니저에게 연락주세요!**  
+**현재 모집 인원을 받고 있지 않습니다🥲 연구관련 협업은 (프로젝트 매니저)[https://soulmates2.github.io/]에게 연락주세요!**  
 
 ## Acknowledgement 🙏
 
