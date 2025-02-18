@@ -79,7 +79,7 @@ class CollaborationFramework:
 
 
 ## 🌱 참여 안내 (How to Engage)
-**현재 모집 인원을 받고 있지 않습니다🥲 연구관련 협업은 (프로젝트 매니저)[https://soulmates2.github.io/]에게 연락주세요!**  
+**현재 모집 인원을 받고 있지 않습니다🥲 연구관련 협업은 프로젝트 매니저에게 연락주세요!**  
 
 ## Acknowledgement 🙏
 
