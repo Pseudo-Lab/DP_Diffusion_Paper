@@ -20,7 +20,7 @@
 ## 🌟 프로젝트 목표 (Project Vision)
 _"Top-Tier Conferences (CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia, NeurIPS, ICLR, ICML)에 논문 투고하기"_  
 - Diffusion / RF 관련 프로젝트
-- 세상에 필요한 기술 및 아직까지 해결하기 못한 문제를 정의하고, 새로운 방법으로 해결
+- 세상에 필요한 기술 / 아직까지 해결하지 못한 문제를 정의하고, 새로운 방법으로 해결
 
 ## 🧑 역동적인 팀 소개 (Dynamic Team)
 
