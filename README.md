@@ -1,6 +1,4 @@
-# 10th-template
-
-<h1 align="center"> 10th Template </h1>
+<h1 align="center"> DP (Diffusion Paper) </h1>
 
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
@@ -38,7 +36,7 @@ gantt
     title 2025 AI 프로젝트 여정
     section 핵심 마일스톤
     ICCV 2025 Deadline       :a1, 2025-02-06, 30d
-    NeurIPS 2025        :a2, after a1, 70d
+    NeurIPS 2025 Deadline       :a2, after a1, 70d
     section 부가 활동
     Magical Week       :b1, 2025-03-23, 7d
     Magical Week       :b2, 2025-04-27, 7d
@@ -81,7 +79,7 @@ class CollaborationFramework:
 
 
 ## 🌱 참여 안내 (How to Engage)
-**현재 모집 인원을 받고 있지 않습니다🥲.**  
+**현재 모집 인원을 받고 있지 않습니다🥲 연구관련 협업은 프로젝트 매니저에게 연락주세요!**  
 
 ## Acknowledgement 🙏
 
